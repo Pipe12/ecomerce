@@ -1,0 +1,15 @@
+.carousel-inner > .item > img,
+  .carousel-inner > .item > a > img {
+      width: 100%;
+      margin: auto;
+  }
+@media screen and (max-width: 992px) {
+	#categorias {
+		margin-bottom: 20px;
+	} }
+#modal {
+	padding: 10px;
+}
+#productos {
+  	margin-top: 20px;
+  }
